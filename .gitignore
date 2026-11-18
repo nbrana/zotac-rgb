@@ -1,0 +1,6 @@
+# build output
+zotac-rgb
+# vendor software and RE workspace - not redistributable
+extracted/
+gpu-software.*
+*.exe
